@@ -1,0 +1,1 @@
+A simple prototype to test a simple BLE sensor with a Kotlin backend.
